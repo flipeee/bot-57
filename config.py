@@ -1,0 +1,17 @@
+BOT_TOKEN = "9189114280:AAGgPImgV4svqKLqkH7-I83pQ7SmZyiLfLA"
+GROUP_ID = -1004441548279
+ADMIN_USERNAME = "zyasu"
+
+# Пароли
+PASSWORD_LIMITED = "5783"
+PASSWORD_FULL = "3501"
+
+# Ваш ID (полный админ)
+FULL_ADMIN_ID = 5134568018
+
+# Настройки вебхука
+WEBHOOK_HOST = "https://flipe.pythonanywhere.com" 
+WEBHOOK_PATH = f"/webhook/{BOT_TOKEN}"
+WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
+
+WEB_SERVER_PORT = 8080
